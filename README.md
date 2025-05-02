@@ -24,7 +24,10 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and grow
 - Frontend UI/UX improvements
 
 ---
-
+## 🔧 Skills
+- JavaScript, React, HTML, CSS
+- Git, GitHub
+---
 ### 📫 How to Reach Me:
 - 📧 Email: `thariduperera09gmail.com`
 - 💼 LinkedIn: www.linkedin.com/in/tharindu-perera-060823178
