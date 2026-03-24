@@ -11,15 +11,13 @@
 ---
 
 ## 🧑‍💻 About Me
-```javascript
-const tharindu = {
-  education : "BSc (Hons) Information Technology @ SLIIT (Year 3)",
-  currentFocus: ["React", "Node.js", "MongoDB", "REST APIs"],
-  learning   : ["TypeScript", "Docker", "System Design"],
-  goal       : "Become a skilled Full-Stack Developer",
-  funFact    : "I debug better with coffee ☕",
-};
-` ` `
+
+- 🎓 BSc (Hons) Information Technology @ SLIIT — Year 3
+- 💻 Building projects with the MERN Stack
+- 🌱 Currently learning: React · Node.js · MongoDB · REST APIs
+- 🎯 Goal: Become a skilled Full-Stack Developer
+- ⚡ Fun fact: I debug better with coffee ☕
+- 📫 Reach me: thariduperera09@gmail.com
 
 ---
 
@@ -103,6 +101,3 @@ const tharindu = {
 *"First, solve the problem. Then, write the code." – John Johnson*
 
 </div>
-```
-
-> **Note:** When pasting into GitHub, make sure the code block in the "About Me" section uses triple backticks (` ``` `) with `javascript` — I had to break them above to display correctly. Just replace the ` `` ` at the end of that block with proper triple backticks.
