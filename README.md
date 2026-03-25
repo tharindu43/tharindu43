@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tharindu%20Perera&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20in%20the%20Making%20🚀&descAlignY=55&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Tharindu+Perera!;MERN+Stack+Developer+in+the+Making;3rd+Year+IT+Student+%40+SLIIT;Building+Real-World+Web+Apps;Passionate+about+Clean+Code+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Tharindu+Perera!;MERN+Stack+Developer+in+the+Making;4rd+Year+IT+Student+%40+SLIIT;Building+Real-World+Web+Apps;Passionate+about+Clean+Code+✨)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 > *"Code is not just syntax — it's a solution to a real problem."*
 
-- 🎓 **BSc (Hons) in Information Technology** @ SLIIT — Year 3
+- 🎓 **BSc (Hons) in Information Technology** @ SLIIT — Year 4
 - 💻 Passionate about building **full-stack web applications**
 - 🌱 Currently mastering **React · Node.js · MongoDB · REST APIs**
 - 🔭 Working on real-world **MERN Stack projects**
