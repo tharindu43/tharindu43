@@ -69,13 +69,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tharindu43&theme=radical&no-frame=true&row=1&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
